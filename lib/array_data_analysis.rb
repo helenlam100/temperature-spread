@@ -45,7 +45,4 @@ class ArrayDataAnalysis
       #     expect(analyzer.average_temperatures[29]).to be == 67.5
 
 end
-# day_of = data.map do |second_index_array|
-#   p second_index_array[2]
-# end.min
-# data.index(day_of)
+
